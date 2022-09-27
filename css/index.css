@@ -1,7 +1,10 @@
 body {
     max-width: 1440px;
-    margin: 150px auto;
+    height: 100vh;
+    display: grid;
+    margin: 0 auto;
     background-color: hsl(212, 45%, 89%);
+    place-content: center;
     text-align: center;
 }
 
@@ -14,7 +17,7 @@ main {
 }
 
 img {
-    height: 290px;
+    max-height: 290px;
     border-radius: 15px;
 }
 
@@ -34,7 +37,7 @@ p {
     color: hsl(220, 15%, 55%);
 }
 
-footer {
+.attribution {
     font-size: 11px; 
     text-align: center;
     margin-top: 15px;

@@ -10,13 +10,9 @@ With Frontend Mentor I want better my improve your coding skills by building rea
 
 - [Screenshot](#screenshot)
 - [Links](#links)
-- [Myprocess](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
+- [My Process](#my-process)
+  - [Built With](#built-with)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 

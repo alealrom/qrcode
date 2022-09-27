@@ -1,23 +1,21 @@
 body {
-    max-width: 1440px;
-    height: 100vh;
+   min-height: 100vh;
     display: grid;
-    margin: 0 auto;
     background-color: hsl(212, 45%, 89%);
     place-content: center;
     text-align: center;
 }
 
 main {
-    max-width: 300px;
-    margin: 0 auto;
+    width: 300px;
     background-color: hsl(0,0%,100%);
     border-radius: 15px;
     padding: 20px 15px;
 }
 
 img {
-    max-height: 290px;
+    max-inline-size: 100%;
+    block-size: auto;
     border-radius: 15px;
 }
 

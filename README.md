@@ -1,6 +1,6 @@
 # Frontend Mentor - QR Code Component Solution
 
-This is a solution to de QR Code Component challenge on Frontend Mentor.
+This is a solution to QR Code Component challenge on Frontend Mentor.
 
 With Frontend Mentor I want better my improve your coding skills by building realistic projects.
 

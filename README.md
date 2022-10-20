@@ -1,4 +1,4 @@
-# Frontend Mentor - QR Code Component Solution
+# alealrom - QR Code Component Solution
 
 This is a solution to QR Code Component challenge on Frontend Mentor.
 
